@@ -1,0 +1,6 @@
+groq
+sentence-transformers
+numpy
+python-dotenv
+fastapi
+uvicorn
